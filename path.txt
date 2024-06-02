@@ -1,0 +1,4 @@
+maven_project\src\main\java\com\example\App
+maven_project\src\test\java\com\example/Apptest.java
+
+file should be store in project directory in the above path  
